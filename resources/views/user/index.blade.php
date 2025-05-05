@@ -27,6 +27,7 @@
     <input type="password"name="password_confirmation" placeholder="konfirmasi password"><br>
     <button type="submit">Simpan</button>
     <a href="/contact/create"><button type="button">Ke Halaman Contact</button></a>
+    <a href="/admin/create"><button type="button">Ke Halaman Admin</button></a>
 </form>
 
 </body>

@@ -27,6 +27,7 @@
     <textarea name="message" placeholder="Message">{{ old('message') }}</textarea><br>
     <button type="submit">Kirim</button>
     <a href="/"><button type="button">Ke Halaman User</button></a>
+    <a href="/admin/create"><button type="button">Ke Halaman Admin</button></a>
 </form>
 
 </body>
